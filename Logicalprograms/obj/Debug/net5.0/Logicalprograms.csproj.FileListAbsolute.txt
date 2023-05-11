@@ -1,0 +1,16 @@
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\bin\Debug\net5.0\Logicalprograms.exe
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\bin\Debug\net5.0\Logicalprograms.deps.json
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\bin\Debug\net5.0\Logicalprograms.runtimeconfig.json
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\bin\Debug\net5.0\Logicalprograms.runtimeconfig.dev.json
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\bin\Debug\net5.0\Logicalprograms.dll
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\bin\Debug\net5.0\ref\Logicalprograms.dll
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\bin\Debug\net5.0\Logicalprograms.pdb
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.csproj.AssemblyReference.cache
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.AssemblyInfoInputs.cache
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.AssemblyInfo.cs
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.csproj.CoreCompileInputs.cache
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.dll
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\ref\Logicalprograms.dll
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.pdb
+C:\Users\RADURGA\source\repos\Logicalprograms\Logicalprograms\obj\Debug\net5.0\Logicalprograms.genruntimeconfig.cache
